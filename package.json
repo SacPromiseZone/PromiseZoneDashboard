@@ -1,0 +1,27 @@
+{
+  "name": "promise-zone-explorer",
+  "version": "1.0.0",
+  "description": "####In honor of the [National Day of Civic Hacking 2016](https://www.codeforamerica.org/events/national-day-2016) we aim to provide tools to help decisionmakers better understand, visualize, and prioritize the challenges faced by the most disadvantaged neighborhoods in Sacramento.",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SacPromiseZone/PromiseZoneExplorer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SacPromiseZone/PromiseZoneExplorer/issues"
+  },
+  "homepage": "https://github.com/SacPromiseZone/PromiseZoneExplorer#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
