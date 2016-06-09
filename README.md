@@ -1,4 +1,4 @@
-# PromiseZoneExplorer
+# PromiseZoneDashboard
 
 ###A Dashboard Tool for Major Indicators in the Sacramento Promise Zone
 
